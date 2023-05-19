@@ -1,7 +1,11 @@
 header {
-    background-color: #ff8800;
+    background-color: #244175;
 }
 
 .cabecalho-imagem{
-width: 60%;
+width: 10%;
+}
+
+.escola-imagem{
+    width: 25%;
 }
