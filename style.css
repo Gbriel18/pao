@@ -1,5 +1,8 @@
 header {
     background-color: #244175;
+    color: white;
+    display: flex;
+    justify-content: space-around;
 }
 
 .cabecalho-imagem{
@@ -8,4 +11,21 @@ width: 10%;
 
 .escola-imagem{
     width: 25%;
+}
+
+.escola{
+    background-image: linear-gradient(#244175,#6194f3);
+    color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 24px 0;
+}
+
+.escola-div-conteudo{
+    width: 35%;
+}
+
+.escola-titulo{
+    padding: 24px 0;
 }
