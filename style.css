@@ -4,6 +4,10 @@ header {
     display: flex;
     justify-content: space-around;
 }
+body{
+    font-family: 'Bebas Neue', sans-serif;
+font-family: 'Poppins', sans-serif;
+}
 
 .cabecalho-imagem{
 width: 10%;
@@ -28,4 +32,8 @@ width: 10%;
 
 .escola-titulo{
     padding: 24px 0;
+}
+
+.estudante{
+    width: 120px;
 }
